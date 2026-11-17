@@ -1,0 +1,12 @@
+Identificación Estudiante 1: 2,
+Valor de energía E1: 26,
+Valor de salud E1: 26,
+Identificación Estudiante 2: 1,
+Valor de energía E2: 20,
+Valor de salud E2: 20,
+Puntaje obtenido por el ganador18,
+Identificación del ganador2,
+Fecha de realización de la batalla: 
+Dia: 18
+Mes: 1
+Anio: 2024
